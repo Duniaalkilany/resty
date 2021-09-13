@@ -11,10 +11,10 @@
 
 ## Links and Resources:
 
- * ### [code sand box](https://codesandbox.io/s/friendly-silence-cp725)
+ * ### [code sand box](https://codesandbox.io/s/zen-scott-x1z15)
 
 
-* ### [pull request]()
+* ### [pull request](https://github.com/Duniaalkilany/resty/pull/1)
 
 # UML : 
 
