@@ -1,7 +1,7 @@
 import React from 'react';
 import './footer.scss';
 function Footer(){
-    return <footer>&copy; 2018</footer>;
+    return <footer>&copy; Dunia Alkilany-2021</footer>;
 }
 
 
