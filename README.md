@@ -27,7 +27,7 @@
 
 * ### [code sand box /Phase 1](https://codesandbox.io/s/friendly-silence-cp725)
 
-* ### [code sand box /Phase 2](https://codesandbox.io/s/upbeat-yalow-71iw8)
+* ### [code sand box /Phase 2](https://6ry9i.csb.app/)
 
 * ### [code sand box /Phase 3](https://6ry9i.csb.app/)
 
