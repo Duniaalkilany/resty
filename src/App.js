@@ -19,7 +19,8 @@ function App() {
     setrequestParams(requestParams);
   }
 
-  useEffect(async () => {
+  useEffect(() => {
+    (async function() {
     try {
       const raw = await fetch(requestParams.url);
       const data = await raw.json();
@@ -33,7 +34,7 @@ function App() {
       // ],
       // };
       setdata(null);
-    }
+    }})()
   }, [requestParams]);
 
   return (
