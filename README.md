@@ -35,7 +35,7 @@
 
 * ### [lab 27 pull request ](https://github.com/Duniaalkilany/resty/pull/2)
 
-* ### [lab 28 pull request ](https://github.com/Duniaalkilany/resty/pull/4)
+* ### [lab 28 pull request ](https://github.com/Duniaalkilany/resty/pull/6)
 
 ## UML : 
 
