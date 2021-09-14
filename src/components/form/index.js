@@ -16,7 +16,7 @@ function Form(props) {
         method: method,
         url: url,
       });
-      // const data = await raw.json();
+   
       const formData = {
         method: method,
         url: url,
