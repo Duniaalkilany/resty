@@ -27,7 +27,7 @@
 
 * ### [code sand box /Phase 1](https://codesandbox.io/s/friendly-silence-cp725)
 
-* ### [code sand box /Phase 2]https://codesandbox.io/s/upbeat-yalow-71iw8)
+* ### [code sand box /Phase 2](https://codesandbox.io/s/upbeat-yalow-71iw8)
 
 * ### [lab 26 pull request ](https://github.com/Duniaalkilany/resty/pull/1)
 
