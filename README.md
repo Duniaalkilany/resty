@@ -14,10 +14,10 @@
 
 ### In phase 2, we will be receiving user input in preparation of connecting to live APIs, using the useState() hook in our functional components
 
-### The following user stories detail the major functionality for this phase of the project.
+## RESTy Phase 3:
 
-* ### As a user, I want to enter the REST Method and URL to an API
-* ### As a user, I want to see a summary of my request as well as results returned from an API request in my browser in a readable format
+### In phase 3, we will be connecting RESTy to live APIs, fetching and displaying remote data. Our primary focus will be to service GET requests
+
 
 
 ## Links and Resources:
@@ -29,10 +29,13 @@
 
 * ### [code sand box /Phase 2](https://codesandbox.io/s/upbeat-yalow-71iw8)
 
+* ### [code sand box /Phase 3](https://codesandbox.io/s/upbeat-yalow-71iw8)
+
 * ### [lab 26 pull request ](https://github.com/Duniaalkilany/resty/pull/1)
 
 * ### [lab 27 pull request ](https://github.com/Duniaalkilany/resty/pull/2)
 
+* ### [lab 28 pull request ](https://github.com/Duniaalkilany/resty/pull/3)
 
 ## UML : 
 
@@ -64,7 +67,7 @@
   ```
 
 
-## expicted result /lab 27 :
+## expicted result /lab 27-28 :
 
 * ### randomURL
 
@@ -175,7 +178,7 @@
 
 ```
 
-## Test Report:
+## Test Report /lab 27:
 
 ![img](/assets/lab27-test1.png)
 
@@ -185,3 +188,6 @@
 
 ![img](/assets/lab27-tests.png)
 
+## Test Report /lab 28:
+
+![img](/assets/lab28-tests.png)
