@@ -6,11 +6,11 @@
 
 ### 4-Phase build of the RESTy application, written in React. In this first phase, our goal is to setup the basic scaffolding of the application, with intent being to add more functionality to the system as we go. This initial build sets up the file structure so that we can progressively build this application in a scalable manner.
 
-# RESTy Phase 1:
+## RESTy Phase 1:
 
 ### Begin work on the RESTy API testing application
 
-# RESTy Phase 2:
+## RESTy Phase 2:
 
 ### In phase 2, we will be receiving user input in preparation of connecting to live APIs, using the useState() hook in our functional components
 
@@ -24,25 +24,21 @@
 
 
 * ### [Github Actions](https://github.com/Duniaalkilany/resty/actions)
-n
 
- * ### [code sand box /Phase 1](https://codesandbox.io/s/friendly-silence-cp725)
+* ### [code sand box /Phase 1](https://codesandbox.io/s/friendly-silence-cp725)
 
-
- * ### [code sand box /Phase 2](https://codesandbox.io/s/friendly-silence-cp725)
+* ### [code sand box /Phase 2](https://codesandbox.io/s/upbeat-yalow-71iw8)
 
 * ### [lab 26 pull request ](https://github.com/Duniaalkilany/resty/pull/1)
 
 * ### [lab 27 pull request ](https://github.com/Duniaalkilany/resty/pull/2)
 
-* ### [pull request](https://github.com/Duniaalkilany/resty/pull/1)
 
-
-# UML : 
+## UML : 
 
 ![img](./assets/resty-UML.png)
 
-# expicted result /lab 26 :
+## expicted result /lab 26 :
 * ### any link:
    
     - ### get
@@ -68,9 +64,9 @@ n
   ```
 
 
-# expicted result /lab 27 :
+## expicted result /lab 27 :
 
-* ## randomURL
+* ### randomURL
 
     - ### get or post or putor delete​
 
@@ -81,7 +77,7 @@ n
 
 ```  
 ​
-* ## valid api URL example : https://pokeapi.co/api/v2/pokemon
+* ### valid api URL example : https://pokeapi.co/api/v2/pokemon
 
     - ### get or post or put or delete​
 
