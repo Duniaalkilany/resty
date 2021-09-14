@@ -29,7 +29,7 @@
 
 * ### [code sand box /Phase 2](https://codesandbox.io/s/upbeat-yalow-71iw8)
 
-* ### [code sand box /Phase 3](https://codesandbox.io/s/upbeat-yalow-71iw8)
+* ### [code sand box /Phase 3](https://6ry9i.csb.app/)
 
 * ### [lab 26 pull request ](https://github.com/Duniaalkilany/resty/pull/1)
 
