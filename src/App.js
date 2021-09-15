@@ -13,7 +13,7 @@ import History from './components/history';
 
 
 
-let history;
+
 
 
 //initial state
@@ -30,7 +30,7 @@ function historyReducer(state = initialState, action) {
     case 'addSearch':
       const requests = [...state.requests, payload];
       console.log('requests', requests);
-      history = requests;
+    
       return { requests };
     default:
       return state;
@@ -86,7 +86,7 @@ function App() {
         <div>Request Method: {requestParams.method}</div>
         <div>URL: {requestParams.url}</div>
       </div>
-      <History handleApiCall={callApi} history={history} />
+      <History handleApiCall={callApi} history={state.requests} />
       <Results data={data} loading={loading} />
       <Footer />
     </>
