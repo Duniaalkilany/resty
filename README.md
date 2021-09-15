@@ -18,7 +18,9 @@
 
 ### In phase 3, we will be connecting RESTy to live APIs, fetching and displaying remote data. Our primary focus will be to service GET requests
 
+## RESTy Phase 4:
 
+### In phase 4, we will be tracking every API call and storing it in history
 
 ## Links and Resources:
 
@@ -31,17 +33,21 @@
 
 * ### [code sand box /Phase 3](https://6ry9i.csb.app/)
 
+* ### [code sand box /Phase 4](https://6ry9i.csb.app/)
+
 * ### [lab 26 pull request ](https://github.com/Duniaalkilany/resty/pull/1)
 
 * ### [lab 27 pull request ](https://github.com/Duniaalkilany/resty/pull/2)
 
 * ### [lab 28 pull request ](https://github.com/Duniaalkilany/resty/pull/6)
 
+* ### [lab 29 pull request ](https://github.com/Duniaalkilany/resty/pull/7)
+
 ## UML : 
 
 ![img](./assets/resty-UML.png)
 
-## expicted result /lab 26 :
+## result /lab 26 :
 * ### any link:
    
     - ### get
@@ -178,6 +184,11 @@
 
 ```
 
+
+
+## result/lab 29 :
+![img](assets/lab29-history.png)
+
 ## Test Report /lab 27:
 
 ![img](/assets/lab27-test1.png)
@@ -188,6 +199,6 @@
 
 ![img](/assets/lab27-tests.png)
 
-## Test Report /lab 28:
+## Test Report /lab 28-29:
 
 ![img](/assets/lab28-tests.png)
